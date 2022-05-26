@@ -1,0 +1,14 @@
+{
+  "name": "elementui-w",
+  "version": "0.0.4",
+  "description": "ElementUI2 validator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ElementUI"
+  ],
+  "author": "wcodeplus",
+  "license": "ISC"
+}
